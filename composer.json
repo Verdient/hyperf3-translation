@@ -2,15 +2,15 @@
     "name": "verdient/hyperf3-translation",
     "type": "library",
     "require": {
-        "hyperf/collection": "^3.1",
-        "hyperf/config": "^3.1",
-        "hyperf/context": "^3.1",
-        "hyperf/contract": "^3.1",
-        "hyperf/stringable": "^3.1",
-        "hyperf/support": "^3.1",
-        "hyperf/translation": "^3.1",
+        "hyperf/collection": "^3.2",
+        "hyperf/config": "^3.2",
+        "hyperf/context": "^3.2",
+        "hyperf/contract": "^3.2",
+        "hyperf/stringable": "^3.2",
+        "hyperf/support": "^3.2",
+        "hyperf/translation": "^3.2",
         "psr/container": "^2.0",
-        "verdient/hyperf3-di": "^2.0"
+        "verdient/hyperf3-di": "^2.1"
     },
     "autoload": {
         "psr-4": {
